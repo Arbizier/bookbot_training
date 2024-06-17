@@ -1,2 +1,1 @@
-# bookbot_training
-bookbot
+BookBot is my first project!
